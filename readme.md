@@ -3,20 +3,14 @@
 **Github:** [talyttacarvalho](https://github.com/talyttacarvalho)  
 **LinkedIn:** [talytta-carvalho](https://www.linkedin.com/in/talytta-carvalho/)  
 
-## About me
+## Sobre mim
 
-Software Developer with knowledge in Vue.js, Ruby on Rails, Git, MySQL, PostgeSQL, UX/UI.  
+Desenvolvedora Back-End com 5 anos de experiência profissional atuando com aplicações Ruby on Rails em ambiente de produção.
 
-I'm currently graduating in Software Engineering.
+Ao longo da minha trajetória, trabalhei com desenvolvimento de funcionalidades, correção de bugs e suporte técnico em sistemas ativos, com forte atuação em análise e manipulação de banco de dados utilizando PostgreSQL, MySQL e MariaDB.
 
-I'm excellent at problem solving, planning, organizing and working as a team, self-learning.
+Tenho especial interesse em debugging, entendimento do funcionamento interno dos sistemas e resolução estruturada de problemas reais de usuários. Minha experiência inclui investigação de incidentes em produção, análise de tickets e implementação de melhorias com foco em confiabilidade e performance.
 
-Also, I’m used to working with Agile methods like Scrum and Kanban.
+Atualmente, estou aprofundando meus conhecimentos em arquitetura de APIs, autenticação e boas práticas de desenvolvimento Back-End, enquanto curso Engenharia de Software.
 
-Graduated from the first class of Laboratoria - Brasil, a bootcamp aimed at training female frontend developers.
-
-Graduate course in Web Development at Federal Institute South of Minas Gerais
-
-Law Graduate, B.S  from UEMG; passed the XXI OAB/MG exam; Graduate course in Public Law and Civil Procedural Law.
-
-I worked for 6 (six) years in the Office of the 1st Court of the Cássia/MG forum of the TJMG.
+Valorizo colaboração, planejamento, solução de problemas e aprendizado contínuo.
