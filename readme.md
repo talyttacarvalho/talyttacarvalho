@@ -5,7 +5,7 @@
 
 ## Sobre mim
 
-Desenvolvedora Back-End com 5 anos de experiência profissional atuando com aplicações Ruby on Rails em ambiente de produção.
+Desenvolvedora Back-End com experiência profissional atuando com aplicações Ruby on Rails em ambiente de produção.
 
 Ao longo da minha trajetória, trabalhei com desenvolvimento de funcionalidades, correção de bugs e suporte técnico em sistemas ativos, com forte atuação em análise e manipulação de banco de dados utilizando PostgreSQL, MySQL e MariaDB.
 
