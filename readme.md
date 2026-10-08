@@ -27,7 +27,7 @@ React · Vue.js · HTML · CSS
 **Desenvolvimento e colaboração**  
 Git · GitHub · RSpec · Testes automatizados · Code Review · Scrum
 
-## Projetos em destaque
+## 📂 Projetos em destaque
 
 ### Global Music Insights
 Projeto de análise de dados do mercado musical, utilizando SQL, Google BigQuery e Looker Studio para transformar informações, construir indicadores e visualizar tendências.
@@ -54,7 +54,7 @@ Estou aprofundando meus conhecimentos em desenvolvimento Back-End, arquitetura d
 
 Busco oportunidades para contribuir com minha experiência em desenvolvimento e continuar evoluindo tecnicamente.
 
-## Contato?
+## Contato
 
 - [LinkedIn](https://www.linkedin.com/in/talytta-carvalho/)
 - **E-mail:** talytta110@hotmail.com
