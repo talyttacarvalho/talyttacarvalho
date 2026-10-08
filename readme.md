@@ -1,19 +1,60 @@
-**Email:** talytta110@hotmail.com  
-**Github:** [talyttacarvalho](https://github.com/talyttacarvalho)  
-**LinkedIn:** [talytta-carvalho](https://www.linkedin.com/in/talytta-carvalho/)  
+# Olá, eu sou a Talytta! 👋
 
-## Sobre mim
+### Desenvolvedora de Software | Back-End & Dados
 
-Sou profissional de tecnologia com experiência em desenvolvimento de software, análise de dados e resolução de problemas por meio de soluções digitais.
+Sou desenvolvedora de software, graduanda em Engenharia de Software e pós-graduada em Desenvolvimento Web.
 
-Atuei profissionalmente com Ruby on Rails em aplicações de produção, participando do desenvolvimento de funcionalidades, manutenção de sistemas, investigação de incidentes e manipulação de bancos de dados relacionais, como PostgreSQL, MySQL e MariaDB.
+Tenho experiência profissional no desenvolvimento e manutenção de aplicações em produção, principalmente com **Ruby on Rails, JavaScript, Node.js, APIs REST e bancos de dados relacionais**.
 
-Ao longo da minha trajetória, desenvolvi uma forte afinidade com dados, trabalhando com SQL, análise de informações, construção de relatórios e visualização de indicadores. Recentemente, ampliei minha formação por meio do módulo de Dados e Inteligência Artificial da Laboratoria Brasil, onde desenvolvi projetos utilizando Google BigQuery, Looker Studio, Excel e técnicas de análise de dados apoiadas por IA.
+Gosto de investigar problemas, compreender como os sistemas funcionam e desenvolver soluções que façam sentido para as pessoas e para o negócio.
 
-Também possuo conhecimento em privacidade e proteção de dados, tendo realizado treinamento em LGPD e participado ativamente do processo de adequação da empresa em que atuava às exigências da Lei Geral de Proteção de Dados. Essa experiência me proporcionou uma visão mais ampla sobre governança de dados, conformidade regulatória e boas práticas no tratamento de informações.
+Mais recentemente, venho aprofundando meus estudos em **análise de dados**, utilizando SQL, Google BigQuery e Looker Studio em projetos práticos.
 
-Além disso, tenho experiência com React, TypeScript, Tableau, Git e Figma, o que me permite transitar entre diferentes etapas do desenvolvimento de soluções digitais.
+## 🛠️ Tecnologias e ferramentas
 
-Sou formada pela primeira turma da Laboratoria Brasil e atualmente curso Engenharia de Software. Tenho interesse em oportunidades que envolvam desenvolvimento de software, dados, analytics, inteligência artificial, governança de dados e tecnologia aplicada à geração de valor para negócios.
+**Back-End e linguagens**  
+Ruby on Rails · Node.js · JavaScript · TypeScript · SQL · APIs REST
 
-Acredito no aprendizado contínuo, na colaboração entre equipes e no uso da tecnologia como ferramenta para transformar dados em decisões e problemas em soluções.
+**Bancos de dados**  
+PostgreSQL · MySQL · MariaDB · Firebase · Google BigQuery
+
+**Dados e visualização**  
+Looker Studio · Tableau · Excel · Análise exploratória de dados
+
+**Front-End**  
+React · Vue.js · HTML · CSS
+
+**Desenvolvimento e colaboração**  
+Git · GitHub · RSpec · Testes automatizados · Code Review · Scrum
+
+## 📂 Projetos em destaque
+
+### 📊 Global Music Insights
+Projeto de análise de dados do mercado musical, utilizando SQL, Google BigQuery e Looker Studio para transformar informações, construir indicadores e visualizar tendências.
+
+🔗 [Explorar projeto](https://github.com/talyttacarvalho/global-music-insights)
+
+### 🌿 Ecos da Floresta
+Projeto conceitual de game design, desenvolvido durante meus estudos em desenvolvimento de jogos. Explora narrativa, mecânicas, resolução de enigmas e a experiência do jogador.
+
+O projeto está em fase conceitual e ainda não possui versão jogável.
+
+🔗 [Explorar projeto](https://github.com/talyttacarvalho/ecos-da-floresta-game-concept)
+
+## 📚 Formação e aprendizado
+
+- Engenharia de Software — em andamento
+- Pós-graduação em Desenvolvimento Web — IFSULDEMINAS
+- Dados e Inteligência Artificial — Laboratoria Brasil
+- Bootcamp Front-End — Laboratoria Brasil
+
+## 🌱 Atualmente
+
+Estou aprofundando meus conhecimentos em desenvolvimento Back-End, arquitetura de software e análise de dados.
+
+Busco oportunidades para contribuir com minha experiência em desenvolvimento e continuar evoluindo tecnicamente.
+
+## 📫 Vamos conversar?
+
+- [LinkedIn](https://www.linkedin.com/in/talytta-carvalho/)
+- **E-mail:** talytta110@hotmail.com
